@@ -5,7 +5,7 @@ variable cluster_count {
 
 variable k3s_channel {
     type = string
-    default = "v1.20"
+    default = "v1.27"
 }
 
 variable ssh_id {
